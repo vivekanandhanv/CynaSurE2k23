@@ -7,7 +7,7 @@ function ProjectExpo() {
             id: 1,
             imageSrc:"",
             title: 'Project Expo',
-            text: 'This is the event conducted by the CSE departmnet of Kgisl Institute of technology'
+            text: 'This is the event conducted by the CSE departmnet of KGiSL Institute of technology'
           }
 
     ];
