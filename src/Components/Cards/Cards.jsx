@@ -29,7 +29,7 @@ function Cards() {
           {
             id: 3,
             imageSrc: paperPresentation,
-            title: ' Paper Presentation',
+            title: ' Paper Presentation - Recent Trends in IT',
             text: 'This is the event conducted by the CSE darptmnet of Kgisl Institute of technology'
           },
           {
